@@ -1,16 +1,8 @@
-# study_jam3
+# Thanks for Stopping by
 
-A new Flutter application.
+This Flutter Application will illustrate How you can use Async and Future to show internet connectivity status in your flutter Application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is an Screenshot of What I have done in this application.
+![image](https://user-images.githubusercontent.com/13075784/74098842-cc8def00-4b42-11ea-983c-19bbe474c7c2.png)
