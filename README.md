@@ -1,9 +1,16 @@
-# Thanks for Stopping by
+# check_internet
 
-This Flutter Application will illustrate How you can use Async and Future to show internet connectivity status in your flutter Application.
+A Simple Flutter App to check internet connection.
 
 ## Getting Started
 
-Here is an Screenshot of What I have done in this application.
+This project is a starting point for a Flutter application.
 
-![image](https://user-images.githubusercontent.com/13075784/74098842-cc8def00-4b42-11ea-983c-19bbe474c7c2.png) ![image](https://user-images.githubusercontent.com/13075784/74098859-03fc9b80-4b43-11ea-9bb7-a70d87058b92.png)
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
