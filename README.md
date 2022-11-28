@@ -1,6 +1,12 @@
-# check_internet
+# Check Internet Connectivity in Flutter
 
-A Simple Flutter App to check internet connection.
+### dependencies:
+  - internet_connection_checker:
+  - get:
+
+
+## Screenshots
+![image (2)](https://user-images.githubusercontent.com/13075784/204285947-1245aeb2-12a3-4e67-89bb-8eeedea2283c.png)
 
 ## Getting Started
 
